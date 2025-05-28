@@ -14,11 +14,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://svgshare.com/i/j4j.svg" height="40" width="52" alt="mantine logo"  />
-  <img src="https://svgshare.com/i/j5Y.svg" height="40" width="52" alt="antd logo"  />
-  
   <img src="https://mantine.dev/favicon.svg" alt="Mantine" height="40" width="52" />
-  <img src="https://raw.githubusercontent.com/carbon-design-system/carbon-website/main/src/images/logo.svg" alt="Carbon" height="40" width="52" />
+  
+  <img src="https://carbondesignsystem.com/assets/logo.svg" alt="Carbon" height="40" width="52" />
+  
   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" height="40" width="52" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
